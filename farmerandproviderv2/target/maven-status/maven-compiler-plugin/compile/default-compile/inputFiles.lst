@@ -1,0 +1,17 @@
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\models\Farmer.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\models\Provider.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\rest\FarmerEndpoint.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\rest\TransactionEndpoint.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\repository\FarmerRepository.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\FarmerandproviderApplication.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\DTO\FarmerRequest.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\service\ProviderService.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\rest\ProviderEndpoint.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\repository\ProviderRepository.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\repository\ProviderStatisticsRepository.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\service\FarmerService.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\DTO\BestOffer.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\models\FarmerStatistics.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\models\ProviderStatistics.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\service\TransactionService.java
+C:\Users\java4\Desktop\farmerandprovider\src\main\java\ro\c\farmerandprovider\DTO\BuyOffer.java
